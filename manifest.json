@@ -10,9 +10,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ABBA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ABBA.glb",
-    "variants": [
-      1
-    ]
+    "variants": [1]
   },
   {
     "id": 1,
@@ -25,9 +23,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ABBA_L.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ABBA_L.glb",
-    "variants": [
-      0
-    ]
+    "variants": [0]
   },
   {
     "id": 2,
@@ -76,10 +72,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ASTON_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ASTON_1STR.glb",
-    "variants": [
-      6,
-      7
-    ]
+    "variants": [6, 7]
   },
   {
     "id": 6,
@@ -92,10 +85,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ASTON_2STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ASTON_2STR.glb",
-    "variants": [
-      5,
-      7
-    ]
+    "variants": [5, 7]
   },
   {
     "id": 7,
@@ -108,10 +98,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ASTON_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ASTON_3STR.glb",
-    "variants": [
-      5,
-      6
-    ]
+    "variants": [5, 6]
   },
   {
     "id": 8,
@@ -124,10 +111,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_AUBREY_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_AUBREY_1STR.glb",
-    "variants": [
-      9,
-      10
-    ]
+    "variants": [9, 10]
   },
   {
     "id": 9,
@@ -140,10 +124,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_AUBREY_2STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_AUBREY_2STR.glb",
-    "variants": [
-      8,
-      10
-    ]
+    "variants": [8, 10]
   },
   {
     "id": 10,
@@ -156,10 +137,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_AUBREY_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_AUBREY_3STR.glb",
-    "variants": [
-      8,
-      9
-    ]
+    "variants": [8, 9]
   },
   {
     "id": 11,
@@ -340,10 +318,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Curiosity.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Curiosity.glb",
-    "variants": [
-      26,
-      27
-    ]
+    "variants": [26, 27]
   },
   {
     "id": 26,
@@ -356,10 +331,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Curiosity_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Curiosity_CT.glb",
-    "variants": [
-      25,
-      27
-    ]
+    "variants": [25, 27]
   },
   {
     "id": 27,
@@ -372,10 +344,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Curiosity_ST.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Curiosity_ST.glb",
-    "variants": [
-      25,
-      26
-    ]
+    "variants": [25, 26]
   },
   {
     "id": 28,
@@ -424,10 +393,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_EGGSIGHTMENT_BIG.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_EGGSIGHTMENT_BIG.glb",
-    "variants": [
-      32,
-      33
-    ]
+    "variants": [32, 33]
   },
   {
     "id": 32,
@@ -440,10 +406,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_EGGSIGHTMENT_MID.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_EGGSIGHTMENT_MID.glb",
-    "variants": [
-      31,
-      33
-    ]
+    "variants": [31, 33]
   },
   {
     "id": 33,
@@ -456,10 +419,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_EGGSIGHTMENT_SMALL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_EGGSIGHTMENT_SMALL.glb",
-    "variants": [
-      31,
-      32
-    ]
+    "variants": [31, 32]
   },
   {
     "id": 34,
@@ -472,10 +432,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ELENA_1_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ELENA_1_Seater.glb",
-    "variants": [
-      35,
-      36
-    ]
+    "variants": [35, 36]
   },
   {
     "id": 35,
@@ -488,10 +445,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ELENA_2_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ELENA_2_Seater.glb",
-    "variants": [
-      34,
-      36
-    ]
+    "variants": [34, 36]
   },
   {
     "id": 36,
@@ -504,10 +458,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ELENA_3_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ELENA_3_Seater.glb",
-    "variants": [
-      34,
-      35
-    ]
+    "variants": [34, 35]
   },
   {
     "id": 37,
@@ -595,7 +546,7 @@
   },
   {
     "id": 44,
-    "name": "Gun Craft",
+    "name": "Gunncraft",
     "brand": "SBH",
     "configurable": false,
     "ceramic": true,
@@ -616,14 +567,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_1_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_1_Seater.glb",
-    "variants": [
-      46,
-      47,
-      48,
-      49,
-      50,
-      51
-    ]
+    "variants": [46, 47, 48, 49, 50, 51]
   },
   {
     "id": 46,
@@ -636,14 +580,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_2.5_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_2.5_Seater.glb",
-    "variants": [
-      45,
-      47,
-      48,
-      49,
-      50,
-      51
-    ]
+    "variants": [45, 47, 48, 49, 50, 51]
   },
   {
     "id": 47,
@@ -656,14 +593,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_2_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_2_Seater.glb",
-    "variants": [
-      45,
-      46,
-      48,
-      49,
-      50,
-      51
-    ]
+    "variants": [45, 46, 48, 49, 50, 51]
   },
   {
     "id": 48,
@@ -676,14 +606,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_3_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_3_Seater.glb",
-    "variants": [
-      45,
-      46,
-      47,
-      49,
-      50,
-      51
-    ]
+    "variants": [45, 46, 47, 49, 50, 51]
   },
   {
     "id": 49,
@@ -696,14 +619,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_4_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_4_Seater.glb",
-    "variants": [
-      45,
-      46,
-      47,
-      48,
-      50,
-      51
-    ]
+    "variants": [45, 46, 47, 48, 50, 51]
   },
   {
     "id": 50,
@@ -716,14 +632,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_DAYBED.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_DAYBED.glb",
-    "variants": [
-      45,
-      46,
-      47,
-      48,
-      49,
-      51
-    ]
+    "variants": [45, 46, 47, 48, 49, 51]
   },
   {
     "id": 51,
@@ -736,14 +645,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_L_SHAPE.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_L_SHAPE.glb",
-    "variants": [
-      45,
-      46,
-      47,
-      48,
-      49,
-      50
-    ]
+    "variants": [45, 46, 47, 48, 49, 50]
   },
   {
     "id": 52,
@@ -780,10 +682,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Leon_1_SEATER.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Leon_1_SEATER.glb",
-    "variants": [
-      55,
-      56
-    ]
+    "variants": [55, 56]
   },
   {
     "id": 55,
@@ -796,10 +695,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Leon_2_SEATER.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Leon_2_SEATER.glb",
-    "variants": [
-      54,
-      56
-    ]
+    "variants": [54, 56]
   },
   {
     "id": 56,
@@ -812,10 +708,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Leon_3_SEATER.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Leon_3_SEATER.glb",
-    "variants": [
-      54,
-      55
-    ]
+    "variants": [54, 55]
   },
   {
     "id": 57,
@@ -924,11 +817,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_OBLIVIOUS_A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_OBLIVIOUS_A.glb",
-    "variants": [
-      66,
-      67,
-      68
-    ]
+    "variants": [66, 67, 68]
   },
   {
     "id": 66,
@@ -941,11 +830,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_OBLIVIOUS_B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_OBLIVIOUS_B.glb",
-    "variants": [
-      65,
-      67,
-      68
-    ]
+    "variants": [65, 67, 68]
   },
   {
     "id": 67,
@@ -958,11 +843,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_OBLIVIOUS_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_OBLIVIOUS_C.glb",
-    "variants": [
-      65,
-      66,
-      68
-    ]
+    "variants": [65, 66, 68]
   },
   {
     "id": 68,
@@ -975,11 +856,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Oblivious.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Oblivious.glb",
-    "variants": [
-      65,
-      66,
-      67
-    ]
+    "variants": [65, 66, 67]
   },
   {
     "id": 69,
@@ -1004,10 +881,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Over_Hang_1.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Over_Hang_1.glb",
-    "variants": [
-      71,
-      72
-    ]
+    "variants": [71, 72]
   },
   {
     "id": 71,
@@ -1020,10 +894,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Over_Hang_2.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Over_Hang_2.glb",
-    "variants": [
-      70,
-      72
-    ]
+    "variants": [70, 72]
   },
   {
     "id": 72,
@@ -1036,10 +907,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Over_Hang_3.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Over_Hang_3.glb",
-    "variants": [
-      70,
-      71
-    ]
+    "variants": [70, 71]
   },
   {
     "id": 73,
@@ -1064,10 +932,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PIZZARIA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_PIZZARIA.glb",
-    "variants": [
-      77,
-      78
-    ]
+    "variants": [77, 78]
   },
   {
     "id": 75,
@@ -1104,10 +969,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Pizzaria_A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Pizzaria_A.glb",
-    "variants": [
-      74,
-      78
-    ]
+    "variants": [74, 78]
   },
   {
     "id": 78,
@@ -1120,10 +982,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Pizzaria_B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Pizzaria_B.glb",
-    "variants": [
-      74,
-      77
-    ]
+    "variants": [74, 77]
   },
   {
     "id": 79,
@@ -1172,10 +1031,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SPIN_A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_SPIN_A.glb",
-    "variants": [
-      83,
-      84
-    ]
+    "variants": [83, 84]
   },
   {
     "id": 83,
@@ -1188,10 +1044,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SPIN_B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_SPIN_B.glb",
-    "variants": [
-      82,
-      84
-    ]
+    "variants": [82, 84]
   },
   {
     "id": 84,
@@ -1204,10 +1057,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SPIN_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_SPIN_C.glb",
-    "variants": [
-      82,
-      83
-    ]
+    "variants": [82, 83]
   },
   {
     "id": 85,
@@ -1220,13 +1070,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_1Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_1Str.glb",
-    "variants": [
-      86,
-      87,
-      88,
-      89,
-      90
-    ]
+    "variants": [86, 87, 88, 89, 90]
   },
   {
     "id": 86,
@@ -1239,13 +1083,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2.5Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2.5Str.glb",
-    "variants": [
-      85,
-      87,
-      88,
-      89,
-      90
-    ]
+    "variants": [85, 87, 88, 89, 90]
   },
   {
     "id": 87,
@@ -1258,13 +1096,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2Str.glb",
-    "variants": [
-      85,
-      86,
-      88,
-      89,
-      90
-    ]
+    "variants": [85, 86, 88, 89, 90]
   },
   {
     "id": 88,
@@ -1277,13 +1109,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_3Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_3Str.glb",
-    "variants": [
-      85,
-      86,
-      87,
-      89,
-      90
-    ]
+    "variants": [85, 86, 87, 89, 90]
   },
   {
     "id": 89,
@@ -1296,13 +1122,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_LHShape.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_LHShape.glb",
-    "variants": [
-      85,
-      86,
-      87,
-      88,
-      90
-    ]
+    "variants": [85, 86, 87, 88, 90]
   },
   {
     "id": 90,
@@ -1315,13 +1135,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_RHShape.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_RHShape.glb",
-    "variants": [
-      85,
-      86,
-      87,
-      88,
-      89
-    ]
+    "variants": [85, 86, 87, 88, 89]
   },
   {
     "id": 91,
@@ -1358,11 +1172,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Surefooted.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Surefooted.glb",
-    "variants": [
-      94,
-      95,
-      96
-    ]
+    "variants": [94, 95, 96]
   },
   {
     "id": 94,
@@ -1375,11 +1185,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Surefooted_A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Surefooted_A.glb",
-    "variants": [
-      93,
-      95,
-      96
-    ]
+    "variants": [93, 95, 96]
   },
   {
     "id": 95,
@@ -1392,11 +1198,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Surefooted_B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Surefooted_B.glb",
-    "variants": [
-      93,
-      94,
-      96
-    ]
+    "variants": [93, 94, 96]
   },
   {
     "id": 96,
@@ -1409,11 +1211,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Surefooted_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Surefooted_C.glb",
-    "variants": [
-      93,
-      94,
-      95
-    ]
+    "variants": [93, 94, 95]
   },
   {
     "id": 97,
@@ -1438,12 +1236,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Time_1STR.glb",
-    "variants": [
-      99,
-      100,
-      101,
-      102
-    ]
+    "variants": [99, 100, 101, 102]
   },
   {
     "id": 99,
@@ -1456,12 +1249,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_2STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Time_2STR.glb",
-    "variants": [
-      98,
-      100,
-      101,
-      102
-    ]
+    "variants": [98, 100, 101, 102]
   },
   {
     "id": 100,
@@ -1474,12 +1262,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Time_3STR.glb",
-    "variants": [
-      98,
-      99,
-      101,
-      102
-    ]
+    "variants": [98, 99, 101, 102]
   },
   {
     "id": 101,
@@ -1492,12 +1275,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_4STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Time_4STR.glb",
-    "variants": [
-      98,
-      99,
-      100,
-      102
-    ]
+    "variants": [98, 99, 100, 102]
   },
   {
     "id": 102,
@@ -1510,12 +1288,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Time_LSTR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Time_LSTR.glb",
-    "variants": [
-      98,
-      99,
-      100,
-      101
-    ]
+    "variants": [98, 99, 100, 101]
   },
   {
     "id": 103,
@@ -1648,10 +1421,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_AVENTA.glb",
-    "variants": [
-      114,
-      115
-    ]
+    "variants": [114, 115]
   },
   {
     "id": 114,
@@ -1664,10 +1434,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_3Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_AVENTA_3Str.glb",
-    "variants": [
-      113,
-      115
-    ]
+    "variants": [113, 115]
   },
   {
     "id": 115,
@@ -1680,10 +1447,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_AVENTA_4Str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_AVENTA_4Str.glb",
-    "variants": [
-      113,
-      114
-    ]
+    "variants": [113, 114]
   },
   {
     "id": 116,
@@ -1816,10 +1580,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_Daisy_1_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_Daisy_1_Seater.glb",
-    "variants": [
-      127,
-      128
-    ]
+    "variants": [127, 128]
   },
   {
     "id": 127,
@@ -1832,10 +1593,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_Daisy_2.5_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_Daisy_2.5_Seater.glb",
-    "variants": [
-      126,
-      128
-    ]
+    "variants": [126, 128]
   },
   {
     "id": 128,
@@ -1848,10 +1606,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_Daisy_3_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_Daisy_3_Seater.glb",
-    "variants": [
-      126,
-      127
-    ]
+    "variants": [126, 127]
   },
   {
     "id": 129,
@@ -1876,9 +1631,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DENVER_3_SEATER.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_DENVER_3_SEATER.glb",
-    "variants": [
-      131
-    ]
+    "variants": [131]
   },
   {
     "id": 131,
@@ -1891,9 +1644,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_DENVER_6_SEATER.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_DENVER_6_SEATER.glb",
-    "variants": [
-      130
-    ]
+    "variants": [130]
   },
   {
     "id": 132,
@@ -1918,9 +1669,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_EGGSIGHTMENT_BIG.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_EGGSIGHTMENT_BIG.glb",
-    "variants": [
-      134
-    ]
+    "variants": [134]
   },
   {
     "id": 134,
@@ -1933,9 +1682,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_EGGSIGHTMENT_SMALL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_EGGSIGHTMENT_SMALL.glb",
-    "variants": [
-      133
-    ]
+    "variants": [133]
   },
   {
     "id": 135,
@@ -1972,11 +1719,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_FLEN_2STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_FLEN_2STR.glb",
-    "variants": [
-      138,
-      139,
-      140
-    ]
+    "variants": [138, 139, 140]
   },
   {
     "id": 138,
@@ -1989,11 +1732,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_1.5STR_W_O_ARM.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_1.5STR_W_O_ARM.glb",
-    "variants": [
-      137,
-      139,
-      140
-    ]
+    "variants": [137, 139, 140]
   },
   {
     "id": 139,
@@ -2006,11 +1745,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_1STR.glb",
-    "variants": [
-      137,
-      138,
-      140
-    ]
+    "variants": [137, 138, 140]
   },
   {
     "id": 140,
@@ -2023,11 +1758,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_3STR.glb",
-    "variants": [
-      137,
-      138,
-      139
-    ]
+    "variants": [137, 138, 139]
   },
   {
     "id": 141,
@@ -2040,10 +1771,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Fruits_of_Paradise_BIG.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Fruits_of_Paradise_BIG.glb",
-    "variants": [
-      142,
-      143
-    ]
+    "variants": [142, 143]
   },
   {
     "id": 142,
@@ -2056,10 +1784,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Fruits_of_Paradise_MID.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Fruits_of_Paradise_MID.glb",
-    "variants": [
-      141,
-      143
-    ]
+    "variants": [141, 143]
   },
   {
     "id": 143,
@@ -2072,10 +1797,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Fruits_of_Paradise_SMALL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Fruits_of_Paradise_SMALL.glb",
-    "variants": [
-      141,
-      142
-    ]
+    "variants": [141, 142]
   },
   {
     "id": 144,
@@ -2136,10 +1858,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_1STR.glb",
-    "variants": [
-      149,
-      268
-    ]
+    "variants": [149, 268]
   },
   {
     "id": 149,
@@ -2152,10 +1871,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_3STR.glb",
-    "variants": [
-      148,
-      268
-    ]
+    "variants": [148, 268]
   },
   {
     "id": 150,
@@ -2204,9 +1920,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_2.5st.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Grand_Derby_2.5st.glb",
-    "variants": [
-      154
-    ]
+    "variants": [154]
   },
   {
     "id": 154,
@@ -2219,9 +1933,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_3_st.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Grand_Derby_3_st.glb",
-    "variants": [
-      153
-    ]
+    "variants": [153]
   },
   {
     "id": 155,
@@ -2246,13 +1958,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_220.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_220.glb",
-    "variants": [
-      157,
-      158,
-      159,
-      160,
-      161
-    ]
+    "variants": [157, 158, 159, 160, 161]
   },
   {
     "id": 157,
@@ -2265,13 +1971,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_240.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_240.glb",
-    "variants": [
-      156,
-      158,
-      159,
-      160,
-      161
-    ]
+    "variants": [156, 158, 159, 160, 161]
   },
   {
     "id": 158,
@@ -2284,13 +1984,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_300.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_300.glb",
-    "variants": [
-      156,
-      157,
-      159,
-      160,
-      161
-    ]
+    "variants": [156, 157, 159, 160, 161]
   },
   {
     "id": 159,
@@ -2303,13 +1997,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_Curved_220.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_Curved_220.glb",
-    "variants": [
-      156,
-      157,
-      158,
-      160,
-      161
-    ]
+    "variants": [156, 157, 158, 160, 161]
   },
   {
     "id": 160,
@@ -2322,13 +2010,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_Curved_240.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_Curved_240.glb",
-    "variants": [
-      156,
-      157,
-      158,
-      159,
-      161
-    ]
+    "variants": [156, 157, 158, 159, 161]
   },
   {
     "id": 161,
@@ -2341,13 +2023,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Hour_Glass_Curved_300.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Hour_Glass_Curved_300.glb",
-    "variants": [
-      156,
-      157,
-      158,
-      159,
-      160
-    ]
+    "variants": [156, 157, 158, 159, 160]
   },
   {
     "id": 162,
@@ -2396,10 +2072,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JADE_SENIOR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JADE_SENIOR.glb",
-    "variants": [
-      166,
-      167
-    ]
+    "variants": [166, 167]
   },
   {
     "id": 166,
@@ -2412,10 +2085,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JADE_SOFA_2.5_STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JADE_SOFA_2.5_STR.glb",
-    "variants": [
-      165,
-      167
-    ]
+    "variants": [165, 167]
   },
   {
     "id": 167,
@@ -2428,10 +2098,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JADE_SOFA_3_STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JADE_SOFA_3_STR.glb",
-    "variants": [
-      165,
-      166
-    ]
+    "variants": [165, 166]
   },
   {
     "id": 168,
@@ -2444,11 +2111,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_2str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_2str.glb",
-    "variants": [
-      169,
-      170,
-      171
-    ]
+    "variants": [169, 170, 171]
   },
   {
     "id": 169,
@@ -2461,11 +2124,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_2str_L_2str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_2str_L_2str.glb",
-    "variants": [
-      168,
-      170,
-      171
-    ]
+    "variants": [168, 170, 171]
   },
   {
     "id": 170,
@@ -2478,11 +2137,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_3str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_3str.glb",
-    "variants": [
-      168,
-      169,
-      171
-    ]
+    "variants": [168, 169, 171]
   },
   {
     "id": 171,
@@ -2495,11 +2150,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_3str_L_3str.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_3str_L_3str.glb",
-    "variants": [
-      168,
-      169,
-      170
-    ]
+    "variants": [168, 169, 170]
   },
   {
     "id": 172,
@@ -2524,9 +2175,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_LAVINIA_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_LAVINIA_1STR.glb",
-    "variants": [
-      174
-    ]
+    "variants": [174]
   },
   {
     "id": 174,
@@ -2539,9 +2188,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_LAVINIA_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_LAVINIA_3STR.glb",
-    "variants": [
-      173
-    ]
+    "variants": [173]
   },
   {
     "id": 175,
@@ -2602,10 +2249,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_MORGAN_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_MORGAN_1STR.glb",
-    "variants": [
-      180,
-      181
-    ]
+    "variants": [180, 181]
   },
   {
     "id": 180,
@@ -2618,10 +2262,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_MORGAN_2STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_MORGAN_2STR.glb",
-    "variants": [
-      179,
-      181
-    ]
+    "variants": [179, 181]
   },
   {
     "id": 181,
@@ -2634,10 +2275,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_MORGAN_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_MORGAN_3STR.glb",
-    "variants": [
-      179,
-      180
-    ]
+    "variants": [179, 180]
   },
   {
     "id": 182,
@@ -2686,10 +2324,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Oasis_1_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Oasis_1_Seater.glb",
-    "variants": [
-      186,
-      187
-    ]
+    "variants": [186, 187]
   },
   {
     "id": 186,
@@ -2702,10 +2337,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Oasis_2.5_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Oasis_2.5_Seater.glb",
-    "variants": [
-      185,
-      187
-    ]
+    "variants": [185, 187]
   },
   {
     "id": 187,
@@ -2718,10 +2350,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Oasis_3_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Oasis_3_Seater.glb",
-    "variants": [
-      185,
-      186
-    ]
+    "variants": [185, 186]
   },
   {
     "id": 188,
@@ -2758,10 +2387,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Over_Hang_1.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Over_Hang_1.glb",
-    "variants": [
-      191,
-      192
-    ]
+    "variants": [191, 192]
   },
   {
     "id": 191,
@@ -2774,10 +2400,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Over_Hang_2.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Over_Hang_2.glb",
-    "variants": [
-      190,
-      192
-    ]
+    "variants": [190, 192]
   },
   {
     "id": 192,
@@ -2790,10 +2413,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Over_Hang_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Over_Hang_CT.glb",
-    "variants": [
-      190,
-      191
-    ]
+    "variants": [190, 191]
   },
   {
     "id": 193,
@@ -2818,10 +2438,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_POPPY_BUDS_A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_POPPY_BUDS_A.glb",
-    "variants": [
-      195,
-      196
-    ]
+    "variants": [195, 196]
   },
   {
     "id": 195,
@@ -2834,10 +2451,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_POPPY_BUDS_B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_POPPY_BUDS_B.glb",
-    "variants": [
-      194,
-      196
-    ]
+    "variants": [194, 196]
   },
   {
     "id": 196,
@@ -2850,10 +2464,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_POPPY_BUDS_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_POPPY_BUDS_C.glb",
-    "variants": [
-      194,
-      195
-    ]
+    "variants": [194, 195]
   },
   {
     "id": 197,
@@ -2890,11 +2501,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom.glb",
-    "variants": [
-      200,
-      201,
-      202
-    ]
+    "variants": [200, 201, 202]
   },
   {
     "id": 200,
@@ -2907,11 +2514,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_1.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_1.glb",
-    "variants": [
-      199,
-      201,
-      202
-    ]
+    "variants": [199, 201, 202]
   },
   {
     "id": 201,
@@ -2924,11 +2527,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_2.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_2.glb",
-    "variants": [
-      199,
-      200,
-      202
-    ]
+    "variants": [199, 200, 202]
   },
   {
     "id": 202,
@@ -2941,11 +2540,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_3.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_3.glb",
-    "variants": [
-      199,
-      200,
-      201
-    ]
+    "variants": [199, 200, 201]
   },
   {
     "id": 203,
@@ -2970,12 +2565,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2.5.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ROLLO_2.5.glb",
-    "variants": [
-      205,
-      206,
-      207,
-      210
-    ]
+    "variants": [205, 206, 207, 210]
   },
   {
     "id": 205,
@@ -2988,12 +2578,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ROLLO_2_3STR.glb",
-    "variants": [
-      204,
-      206,
-      207,
-      210
-    ]
+    "variants": [204, 206, 207, 210]
   },
   {
     "id": 206,
@@ -3006,12 +2591,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2_4STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ROLLO_2_4STR.glb",
-    "variants": [
-      204,
-      205,
-      207,
-      210
-    ]
+    "variants": [204, 205, 207, 210]
   },
   {
     "id": 207,
@@ -3024,12 +2604,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ROLLO_3STR.glb",
-    "variants": [
-      204,
-      205,
-      206,
-      210
-    ]
+    "variants": [204, 205, 206, 210]
   },
   {
     "id": 208,
@@ -3042,9 +2617,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_RONDA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_RONDA.glb",
-    "variants": [
-      209
-    ]
+    "variants": [209]
   },
   {
     "id": 209,
@@ -3057,9 +2630,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_RONDA_2.5.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_RONDA_2.5.glb",
-    "variants": [
-      208
-    ]
+    "variants": [208]
   },
   {
     "id": 210,
@@ -3072,12 +2643,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Rollo_2.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Rollo_2.glb",
-    "variants": [
-      204,
-      205,
-      206,
-      207
-    ]
+    "variants": [204, 205, 206, 207]
   },
   {
     "id": 211,
@@ -3102,10 +2668,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SPIN_A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SPIN_A.glb",
-    "variants": [
-      213,
-      214
-    ]
+    "variants": [213, 214]
   },
   {
     "id": 213,
@@ -3118,10 +2681,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SPIN_B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SPIN_B.glb",
-    "variants": [
-      212,
-      214
-    ]
+    "variants": [212, 214]
   },
   {
     "id": 214,
@@ -3134,10 +2694,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SPIN_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SPIN_C.glb",
-    "variants": [
-      212,
-      213
-    ]
+    "variants": [212, 213]
   },
   {
     "id": 215,
@@ -3162,10 +2719,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TRILOGY_BIG.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TRILOGY_BIG.glb",
-    "variants": [
-      217,
-      218
-    ]
+    "variants": [217, 218]
   },
   {
     "id": 217,
@@ -3178,10 +2732,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TRILOGY_MEDIUM.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TRILOGY_MEDIUM.glb",
-    "variants": [
-      216,
-      218
-    ]
+    "variants": [216, 218]
   },
   {
     "id": 218,
@@ -3194,10 +2745,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TRILOGY_SMALL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TRILOGY_SMALL.glb",
-    "variants": [
-      216,
-      217
-    ]
+    "variants": [216, 217]
   },
   {
     "id": 219,
@@ -3270,10 +2818,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Wonder_Wave_lux_2200A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200A.glb",
-    "variants": [
-      225,
-      226
-    ]
+    "variants": [225, 226]
   },
   {
     "id": 225,
@@ -3286,10 +2831,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Wonder_Wave_lux_2200B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200B.glb",
-    "variants": [
-      224,
-      226
-    ]
+    "variants": [224, 226]
   },
   {
     "id": 226,
@@ -3302,10 +2844,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Wonder_Wave_lux_2200C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Wonder_Wave_lux_2200C.glb",
-    "variants": [
-      224,
-      225
-    ]
+    "variants": [224, 225]
   },
   {
     "id": 227,
@@ -3378,9 +2917,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Berlin.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Berlin.glb",
-    "variants": [
-      233
-    ]
+    "variants": [233]
   },
   {
     "id": 233,
@@ -3393,9 +2930,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Berlin_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Berlin_CT.glb",
-    "variants": [
-      232
-    ]
+    "variants": [232]
   },
   {
     "id": 234,
@@ -3456,9 +2991,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND_ROMA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND_ROMA.glb",
-    "variants": [
-      239
-    ]
+    "variants": [239]
   },
   {
     "id": 239,
@@ -3471,9 +3004,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND__L_Shape.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND__L_Shape.glb",
-    "variants": [
-      238
-    ]
+    "variants": [238]
   },
   {
     "id": 240,
@@ -3486,9 +3017,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Detmold.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Detmold.glb",
-    "variants": [
-      241
-    ]
+    "variants": [241]
   },
   {
     "id": 241,
@@ -3501,9 +3030,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Detmold_Sofa.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Detmold_Sofa.glb",
-    "variants": [
-      240
-    ]
+    "variants": [240]
   },
   {
     "id": 242,
@@ -3540,10 +3067,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_Sofa.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_3_Seater.glb",
-    "variants": [
-      262,
-      263
-    ]
+    "variants": [262, 263]
   },
   {
     "id": 245,
@@ -3736,9 +3260,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_CT.glb",
-    "variants": [
-      261
-    ]
+    "variants": [261]
   },
   {
     "id": 261,
@@ -3751,9 +3273,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_ST.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_ST.glb",
-    "variants": [
-      260
-    ]
+    "variants": [260]
   },
   {
     "id": 262,
@@ -3766,10 +3286,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_1_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_1_Seater.glb",
-    "variants": [
-      244,
-      263
-    ]
+    "variants": [244, 263]
   },
   {
     "id": 263,
@@ -3782,10 +3299,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_2_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_2_Seater.glb",
-    "variants": [
-      244,
-      262
-    ]
+    "variants": [244, 262]
   },
   {
     "id": 264,
@@ -3810,10 +3324,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_A.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_A.glb",
-    "variants": [
-      266,
-      267
-    ]
+    "variants": [266, 267]
   },
   {
     "id": 266,
@@ -3826,10 +3337,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_B.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_B.glb",
-    "variants": [
-      265,
-      267
-    ]
+    "variants": [265, 267]
   },
   {
     "id": 267,
@@ -3842,9 +3350,6 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_C.glb",
-    "variants": [
-      265,
-      266
-    ]
+    "variants": [265, 266]
   }
 ]
