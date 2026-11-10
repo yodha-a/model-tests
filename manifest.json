@@ -1352,7 +1352,7 @@
   },
   {
     "id": 108,
-    "name": "Yin Yang",
+    "name": "Ying Yang",
     "brand": "SBH",
     "configurable": false,
     "ceramic": true,
@@ -1858,7 +1858,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_1STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_1STR.glb",
-    "variants": [149, 268]
+    "variants": [149]
   },
   {
     "id": 149,
@@ -1871,7 +1871,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GRAND_THEORY_1_3STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_1_3STR.glb",
-    "variants": [148, 268]
+    "variants": [148]
   },
   {
     "id": 150,
@@ -2917,7 +2917,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Berlin.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Berlin.glb",
-    "variants": [233]
+    "variants": [233, 268, 269, 270, 271]
   },
   {
     "id": 233,
@@ -2930,7 +2930,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Berlin_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Berlin_CT.glb",
-    "variants": [232]
+    "variants": [232, 268, 269, 270, 271]
   },
   {
     "id": 234,
@@ -2991,7 +2991,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND_ROMA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND_ROMA.glb",
-    "variants": [239]
+    "variants": [239, 272, 273, 274, 275]
   },
   {
     "id": 239,
@@ -3004,7 +3004,7 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND__L_Shape.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND__L_Shape.glb",
-    "variants": [238]
+    "variants": [238, 272, 273, 274, 275]
   },
   {
     "id": 240,
@@ -3223,7 +3223,8 @@
     "metal_paint": true,
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard.glb"
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard.glb",
+    "variants": [260, 261, 276, 277, 278]
   },
   {
     "id": 258,
@@ -3260,7 +3261,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_CT.glb",
-    "variants": [261]
+    "variants": [261, 257, 276, 277, 278]
   },
   {
     "id": 261,
@@ -3273,7 +3274,7 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_ST.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_ST.glb",
-    "variants": [260]
+    "variants": [260, 257, 276, 277, 278]
   },
   {
     "id": 262,
@@ -3351,5 +3352,148 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_C.glb",
     "variants": [265, 266]
+  },
+  {
+    "id": 268,
+    "name": "Berlin (3 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_3STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_3STR.glb",
+    "variants": [232, 233, 269, 270, 271]
+  },
+  {
+    "id": 269,
+    "name": "Berlin (4 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_4STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_4STR.glb",
+    "variants": [232, 233, 268, 270, 271]
+  },
+  {
+    "id": 270,
+    "name": "Berlin LH-RH (3 Seater) With Terminal",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_LH-RH_3STR_With_Terminal.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_LH-RH_3STR_With_Terminal.glb",
+    "variants": [232, 233, 268, 269, 271]
+  },
+  {
+    "id": 271,
+    "name": "Berlin LH-RH",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_LH_RH.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_LH_RH.glb",
+    "variants": [232, 233, 268, 269, 270]
+  },
+  {
+    "id": 272,
+    "name": "Dortmund (1.5 Seater) Without Arm",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_1.5_STR_WITHOUT_ARM.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_1.5%20STR_WITHOUT_ARM.glb",
+    "variants": [238, 239, 273, 274, 275]
+  },
+  {
+    "id": 273,
+    "name": "Dortmund Puffee",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_Puffee.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_Puffee.glb",
+    "variants": [238, 239, 272, 274, 275]
+  },
+  {
+    "id": 274,
+    "name": "Dortmund RH-LH (1.5 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_RH-LH_1.5_STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_RH-LH_1.5_STR.glb",
+    "variants": [238, 239, 272, 273, 275]
+  },
+  {
+    "id": 275,
+    "name": "Dortmund RH-LH Terminal With Side Table",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_RH-LH_Terminal_with_side_Table.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_RH-LH_Terminal_with_side_Table.glb",
+    "variants": [238, 239, 272, 273, 274]
+  },
+  {
+    "id": 276,
+    "name": "Stuttgard (2 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_2STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_2STR.glb",
+    "variants": [257, 260, 261, 277, 278]
+  },
+  {
+    "id": 277,
+    "name": "Stuttgard (3 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_3STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_3STR.glb",
+    "variants": [257, 260, 261, 276, 278]
+  },
+  {
+    "id": 278,
+    "name": "Stuttgard (3 Seater) LH-RH",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_3STR_LH-RH.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_3STR_LH-RH.glb",
+    "variants": [257, 260, 261, 276, 277]
   }
 ]
