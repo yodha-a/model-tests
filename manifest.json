@@ -3415,7 +3415,7 @@
     "metal_paint": true,
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_1.5_STR_WITHOUT_ARM.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_1.5%20STR_WITHOUT_ARM.glb",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_1.5_STR_WITHOUT_ARM.glb",
     "variants": [238, 239, 273, 274, 275]
   },
   {
