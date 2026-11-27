@@ -38,6 +38,30 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ABENA.glb"
   },
   {
+    "id": 11,
+    "name": "Adam",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Adam.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Adam.glb"
+  },
+  {
+    "id": 110,
+    "name": "Alba",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_alba.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_alba.glb"
+  },
+  {
     "id": 3,
     "name": "Albury",
     "brand": "SBH",
@@ -48,6 +72,42 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ALBURY.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ALBURY.glb"
+  },
+  {
+    "id": 12,
+    "name": "Allora",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Allora.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Allora.glb"
+  },
+  {
+    "id": 13,
+    "name": "Andy",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Andy.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Andy.glb"
+  },
+  {
+    "id": 14,
+    "name": "Angel",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Angel.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Angel.glb"
   },
   {
     "id": 4,
@@ -140,54 +200,6 @@
     "variants": [8, 9]
   },
   {
-    "id": 11,
-    "name": "Adam",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Adam.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Adam.glb"
-  },
-  {
-    "id": 12,
-    "name": "Allora",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Allora.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Allora.glb"
-  },
-  {
-    "id": 13,
-    "name": "Andy",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Andy.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Andy.glb"
-  },
-  {
-    "id": 14,
-    "name": "Angel",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Angel.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Angel.glb"
-  },
-  {
     "id": 15,
     "name": "Belfast",
     "brand": "SBH",
@@ -248,6 +260,18 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Burnie.glb"
   },
   {
+    "id": 23,
+    "name": "Camellia",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Camellia.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Camellia.glb"
+  },
+  {
     "id": 20,
     "name": "Celestial",
     "brand": "SBH",
@@ -270,30 +294,6 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CONARAD_SOFABED.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_CONARAD_SOFABED.glb"
-  },
-  {
-    "id": 22,
-    "name": "Cute",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CUTE.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_CUTE.glb"
-  },
-  {
-    "id": 23,
-    "name": "Camellia",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Camellia.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Camellia.glb"
   },
   {
     "id": 24,
@@ -345,6 +345,18 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Curiosity_ST.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Curiosity_ST.glb",
     "variants": [25, 26]
+  },
+  {
+    "id": 22,
+    "name": "Cute",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_CUTE.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_CUTE.glb"
   },
   {
     "id": 28,
@@ -509,6 +521,18 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Frankfurt.glb"
   },
   {
+    "id": 43,
+    "name": "Gatwick",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Gatwick.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Gatwick.glb"
+  },
+  {
     "id": 41,
     "name": "Geo",
     "brand": "SBH",
@@ -531,18 +555,6 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_GLORIA_LOWBACK.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_GLORIA_LOWBACK.glb"
-  },
-  {
-    "id": 43,
-    "name": "Gatwick",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Gatwick.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Gatwick.glb"
   },
   {
     "id": 44,
@@ -570,19 +582,6 @@
     "variants": [46, 47, 48, 49, 50, 51]
   },
   {
-    "id": 46,
-    "name": "Hudson (2.5 Seater)",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_2.5_Seater.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_2.5_Seater.glb",
-    "variants": [45, 47, 48, 49, 50, 51]
-  },
-  {
     "id": 47,
     "name": "Hudson (2 Seater)",
     "brand": "SBH",
@@ -594,6 +593,19 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_2_Seater.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_2_Seater.glb",
     "variants": [45, 46, 48, 49, 50, 51]
+  },
+  {
+    "id": 46,
+    "name": "Hudson (2.5 Seater)",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_HUDSON_2.5_Seater.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_HUDSON_2.5_Seater.glb",
+    "variants": [45, 47, 48, 49, 50, 51]
   },
   {
     "id": 48,
@@ -660,18 +672,6 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Kinetic_Wave.glb"
   },
   {
-    "id": 53,
-    "name": "Library",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_LIBRARY.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_LIBRARY.glb"
-  },
-  {
     "id": 54,
     "name": "Leon (1 Seater)",
     "brand": "SBH",
@@ -711,6 +711,18 @@
     "variants": [54, 55]
   },
   {
+    "id": 53,
+    "name": "Library",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_LIBRARY.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_LIBRARY.glb"
+  },
+  {
     "id": 57,
     "name": "Mark",
     "brand": "SBH",
@@ -733,30 +745,6 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MARVEL.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_MARVEL.glb"
-  },
-  {
-    "id": 59,
-    "name": "Milo",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MILO.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_MILO.glb"
-  },
-  {
-    "id": 60,
-    "name": "Moss",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MOSS.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_MOSS.glb"
   },
   {
     "id": 61,
@@ -783,6 +771,30 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Melina.glb"
   },
   {
+    "id": 59,
+    "name": "Milo",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MILO.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_MILO.glb"
+  },
+  {
+    "id": 60,
+    "name": "Moss",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_MOSS.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_MOSS.glb"
+  },
+  {
     "id": 63,
     "name": "Neptune",
     "brand": "SBH",
@@ -805,6 +817,19 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Noah.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Noah.glb"
+  },
+  {
+    "id": 68,
+    "name": "Oblivious",
+    "brand": "SBH",
+    "configurable": false,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Oblivious.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Oblivious.glb",
+    "variants": [65, 66, 67]
   },
   {
     "id": 65,
@@ -844,19 +869,6 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_OBLIVIOUS_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_OBLIVIOUS_C.glb",
     "variants": [65, 66, 68]
-  },
-  {
-    "id": 68,
-    "name": "Oblivious",
-    "brand": "SBH",
-    "configurable": false,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Oblivious.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Oblivious.glb",
-    "variants": [65, 66, 67]
   },
   {
     "id": 69,
@@ -935,30 +947,6 @@
     "variants": [77, 78]
   },
   {
-    "id": 75,
-    "name": "Popular",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_POPULAR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_POPULAR.glb"
-  },
-  {
-    "id": 76,
-    "name": "Pretty",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PRETTY.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_PRETTY.glb"
-  },
-  {
     "id": 77,
     "name": "Pizzaria A",
     "brand": "SBH",
@@ -997,6 +985,30 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Polygon.glb"
   },
   {
+    "id": 75,
+    "name": "Popular",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_POPULAR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_POPULAR.glb"
+  },
+  {
+    "id": 76,
+    "name": "Pretty",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_PRETTY.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_PRETTY.glb"
+  },
+  {
     "id": 80,
     "name": "Riva",
     "brand": "SBH",
@@ -1007,6 +1019,84 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_RIVA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_RIVA.glb"
+  },
+  {
+    "id": 85,
+    "name": "Senart (1 Seater)",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_1Str.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_1Str.glb",
+    "variants": [86, 87, 88, 89, 90]
+  },
+  {
+    "id": 87,
+    "name": "Senart (2 Seater)",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2Str.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2Str.glb",
+    "variants": [85, 86, 88, 89, 90]
+  },
+  {
+    "id": 86,
+    "name": "Senart (2.5 Seater)",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2.5Str.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2.5Str.glb",
+    "variants": [85, 87, 88, 89, 90]
+  },
+  {
+    "id": 88,
+    "name": "Senart (3 Seater)",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_3Str.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_3Str.glb",
+    "variants": [85, 86, 87, 89, 90]
+  },
+  {
+    "id": 89,
+    "name": "Senart (LH Shape)",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_LHShape.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_LHShape.glb",
+    "variants": [85, 86, 87, 88, 90]
+  },
+  {
+    "id": 90,
+    "name": "Senart (RH Shape)",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_RHShape.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_RHShape.glb",
+    "variants": [85, 86, 87, 88, 89]
   },
   {
     "id": 81,
@@ -1058,84 +1148,6 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_SPIN_C.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_SPIN_C.glb",
     "variants": [82, 83]
-  },
-  {
-    "id": 85,
-    "name": "Senart (1 Seater)",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_1Str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_1Str.glb",
-    "variants": [86, 87, 88, 89, 90]
-  },
-  {
-    "id": 86,
-    "name": "Senart (2.5 Seater)",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2.5Str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2.5Str.glb",
-    "variants": [85, 87, 88, 89, 90]
-  },
-  {
-    "id": 87,
-    "name": "Senart (2 Seater)",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_2Str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_2Str.glb",
-    "variants": [85, 86, 88, 89, 90]
-  },
-  {
-    "id": 88,
-    "name": "Senart (3 Seater)",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_3Str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_3Str.glb",
-    "variants": [85, 86, 87, 89, 90]
-  },
-  {
-    "id": 89,
-    "name": "Senart (LH Shape)",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_LHShape.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_LHShape.glb",
-    "variants": [85, 86, 87, 88, 90]
-  },
-  {
-    "id": 90,
-    "name": "Senart (RH Shape)",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Senart_RHShape.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Senart_RHShape.glb",
-    "variants": [85, 86, 87, 88, 89]
   },
   {
     "id": 91,
@@ -1303,18 +1315,6 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_WEDGE.glb"
   },
   {
-    "id": 104,
-    "name": "Winton",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_WINTON.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_WINTON.glb"
-  },
-  {
     "id": 105,
     "name": "Windsor",
     "brand": "SBH",
@@ -1325,6 +1325,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_Windsor.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Windsor.glb"
+  },
+  {
+    "id": 104,
+    "name": "Winton",
+    "brand": "SBH",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_WINTON.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_WINTON.glb"
   },
   {
     "id": 106,
@@ -1351,6 +1363,18 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_Wrap_Around.glb"
   },
   {
+    "id": 111,
+    "name": "Xenon",
+    "brand": "SBH",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_xenon.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_xenon.glb"
+  },
+  {
     "id": 108,
     "name": "Ying Yang",
     "brand": "SBH",
@@ -1373,42 +1397,6 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_ZITA.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_ZITA.glb"
-  },
-  {
-    "id": 110,
-    "name": "Alba",
-    "brand": "SBH",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_alba.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_alba.glb"
-  },
-  {
-    "id": 111,
-    "name": "Xenon",
-    "brand": "SBH",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SBH_xenon.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SBH_xenon.glb"
-  },
-  {
-    "id": 112,
-    "name": "Aventa CT",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": true,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Aventa_CT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Aventa_CT.glb"
   },
   {
     "id": 113,
@@ -1450,6 +1438,18 @@
     "variants": [113, 114]
   },
   {
+    "id": 112,
+    "name": "Aventa CT",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": true,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Aventa_CT.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Aventa_CT.glb"
+  },
+  {
     "id": 116,
     "name": "Awesome",
     "brand": "SLN",
@@ -1486,42 +1486,6 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_BUTTON_MUSHROOM_Big_&_Small.glb"
   },
   {
-    "id": 119,
-    "name": "Celestial",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CELESTIAL.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CELESTIAL.glb"
-  },
-  {
-    "id": 120,
-    "name": "Clavel",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CLAVEL.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CLAVEL.glb"
-  },
-  {
-    "id": 121,
-    "name": "Cornell",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CORNELL.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CORNELL.glb"
-  },
-  {
     "id": 122,
     "name": "Candy Pop Arm Chair",
     "brand": "SLN",
@@ -1546,6 +1510,30 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Capri.glb"
   },
   {
+    "id": 119,
+    "name": "Celestial",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CELESTIAL.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CELESTIAL.glb"
+  },
+  {
+    "id": 120,
+    "name": "Clavel",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CLAVEL.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CLAVEL.glb"
+  },
+  {
     "id": 124,
     "name": "Cologne",
     "brand": "SLN",
@@ -1568,6 +1556,30 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Cooper.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Cooper.glb"
+  },
+  {
+    "id": 121,
+    "name": "Cornell",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_CORNELL.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_CORNELL.glb"
+  },
+  {
+    "id": 229,
+    "name": "Crazy Daisy",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_daisy.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_daisy.glb"
   },
   {
     "id": 126,
@@ -1697,6 +1709,18 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Elaris.glb"
   },
   {
+    "id": 230,
+    "name": "Enchanted",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_enchanted.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_enchanted.glb"
+  },
+  {
     "id": 136,
     "name": "Fleet Foot",
     "brand": "SLN",
@@ -1709,17 +1733,17 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_FLEET_FOOT.glb"
   },
   {
-    "id": 137,
-    "name": "Flen (2 Seater)",
+    "id": 139,
+    "name": "Flen (1 Seater)",
     "brand": "SLN",
     "configurable": true,
     "ceramic": false,
     "metal_pvd": true,
     "metal_paint": false,
     "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_FLEN_2STR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_FLEN_2STR.glb",
-    "variants": [138, 139, 140]
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_1STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_1STR.glb",
+    "variants": [137, 138, 140]
   },
   {
     "id": 138,
@@ -1735,17 +1759,17 @@
     "variants": [137, 139, 140]
   },
   {
-    "id": 139,
-    "name": "Flen (1 Seater)",
+    "id": 137,
+    "name": "Flen (2 Seater)",
     "brand": "SLN",
     "configurable": true,
     "ceramic": false,
     "metal_pvd": true,
     "metal_paint": false,
     "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Flen_1STR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Flen_1STR.glb",
-    "variants": [137, 138, 140]
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_FLEN_2STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_FLEN_2STR.glb",
+    "variants": [138, 139, 140]
   },
   {
     "id": 140,
@@ -1810,6 +1834,32 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_GEO.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GEO.glb"
+  },
+  {
+    "id": 153,
+    "name": "Grand Derby (2.5 Seater)",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_2.5st.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Grand_Derby_2.5st.glb",
+    "variants": [154]
+  },
+  {
+    "id": 154,
+    "name": "Grand Derby (3 Seater)",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_3_st.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Grand_Derby_3_st.glb",
+    "variants": [153]
   },
   {
     "id": 145,
@@ -1910,32 +1960,6 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_GRAND_THEORY_CT.glb"
   },
   {
-    "id": 153,
-    "name": "Grand Derby (2.5 Seater)",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_2.5st.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Grand_Derby_2.5st.glb",
-    "variants": [154]
-  },
-  {
-    "id": 154,
-    "name": "Grand Derby (3 Seater)",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Grand_Derby_3_st.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Grand_Derby_3_st.glb",
-    "variants": [153]
-  },
-  {
     "id": 155,
     "name": "Hester",
     "brand": "SLN",
@@ -2026,18 +2050,6 @@
     "variants": [156, 157, 158, 159, 160]
   },
   {
-    "id": 162,
-    "name": "Island In The Stream",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": true,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ISLAND_IN_THE_STREAM.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ISLAND_IN_THE_STREAM.glb"
-  },
-  {
     "id": 163,
     "name": "Illusion",
     "brand": "SLN",
@@ -2048,6 +2060,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Illusion.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Illusion.glb"
+  },
+  {
+    "id": 162,
+    "name": "Island In The Stream",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": true,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ISLAND_IN_THE_STREAM.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ISLAND_IN_THE_STREAM.glb"
   },
   {
     "id": 164,
@@ -2101,19 +2125,6 @@
     "variants": [165, 166]
   },
   {
-    "id": 168,
-    "name": "Juke Box (2 Seater)",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_2str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_2str.glb",
-    "variants": [169, 170, 171]
-  },
-  {
     "id": 169,
     "name": "Juke Box (2 Seater L 2 Seater)",
     "brand": "SLN",
@@ -2127,17 +2138,17 @@
     "variants": [168, 170, 171]
   },
   {
-    "id": 170,
-    "name": "Juke Box (3 Seater)",
+    "id": 168,
+    "name": "Juke Box (2 Seater)",
     "brand": "SLN",
     "configurable": true,
     "ceramic": false,
     "metal_pvd": false,
     "metal_paint": false,
     "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_3str.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_3str.glb",
-    "variants": [168, 169, 171]
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_2str.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_2str.glb",
+    "variants": [169, 170, 171]
   },
   {
     "id": 171,
@@ -2153,6 +2164,19 @@
     "variants": [168, 169, 170]
   },
   {
+    "id": 170,
+    "name": "Juke Box (3 Seater)",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_JUKE_BOX_3str.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_JUKE_BOX_3str.glb",
+    "variants": [168, 169, 171]
+  },
+  {
     "id": 172,
     "name": "Kimberly",
     "brand": "SLN",
@@ -2163,6 +2187,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Kimberly.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Kimberly.glb"
+  },
+  {
+    "id": 176,
+    "name": "Larvik",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Larvik.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Larvik.glb"
   },
   {
     "id": 173,
@@ -2191,30 +2227,6 @@
     "variants": [173]
   },
   {
-    "id": 175,
-    "name": "Luton",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_LUTON.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_LUTON.glb"
-  },
-  {
-    "id": 176,
-    "name": "Larvik",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Larvik.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Larvik.glb"
-  },
-  {
     "id": 177,
     "name": "Little Pug",
     "brand": "SLN",
@@ -2225,6 +2237,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Little_Pug.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Little_Pug.glb"
+  },
+  {
+    "id": 175,
+    "name": "Luton",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_LUTON.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_LUTON.glb"
   },
   {
     "id": 178,
@@ -2302,18 +2326,6 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_NICO.glb"
   },
   {
-    "id": 184,
-    "name": "Oceanic Bloom Big Medium",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_OCEANIC_BLOOM_BIG_MEDIUM.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_OCEANIC_BLOOM_BIG_MEDIUM.glb"
-  },
-  {
     "id": 185,
     "name": "Oasis (1 Seater)",
     "brand": "SLN",
@@ -2363,6 +2375,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Oblivious.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Oblivious.glb"
+  },
+  {
+    "id": 184,
+    "name": "Oceanic Bloom Big Medium",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_OCEANIC_BLOOM_BIG_MEDIUM.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_OCEANIC_BLOOM_BIG_MEDIUM.glb"
   },
   {
     "id": 189,
@@ -2416,6 +2440,58 @@
     "variants": [190, 191]
   },
   {
+    "id": 199,
+    "name": "Paradiso Bloom",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom.glb",
+    "variants": [200, 201, 202]
+  },
+  {
+    "id": 200,
+    "name": "Paradiso Bloom 1",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_1.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_1.glb",
+    "variants": [199, 201, 202]
+  },
+  {
+    "id": 201,
+    "name": "Paradiso Bloom 2",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_2.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_2.glb",
+    "variants": [199, 200, 202]
+  },
+  {
+    "id": 202,
+    "name": "Paradiso Bloom 3",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_3.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_3.glb",
+    "variants": [199, 200, 201]
+  },
+  {
     "id": 193,
     "name": "Pebble S",
     "brand": "SLN",
@@ -2426,6 +2502,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_PEBBLE_S.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Pebble.glb"
+  },
+  {
+    "id": 203,
+    "name": "Polygon",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Polygon.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Polygon.glb"
   },
   {
     "id": 194,
@@ -2491,81 +2579,17 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_PRINCETON_LOW.glb"
   },
   {
-    "id": 199,
-    "name": "Paradiso Bloom",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom.glb",
-    "variants": [200, 201, 202]
-  },
-  {
-    "id": 200,
-    "name": "Paradiso Bloom 1",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_1.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_1.glb",
-    "variants": [199, 201, 202]
-  },
-  {
-    "id": 201,
-    "name": "Paradiso Bloom 2",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_2.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_2.glb",
-    "variants": [199, 200, 202]
-  },
-  {
-    "id": 202,
-    "name": "Paradiso Bloom 3",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Paradiso_Bloom_3.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Paradiso_Bloom_3.glb",
-    "variants": [199, 200, 201]
-  },
-  {
-    "id": 203,
-    "name": "Polygon",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Polygon.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Polygon.glb"
-  },
-  {
-    "id": 204,
-    "name": "Rollo 2.5",
+    "id": 210,
+    "name": "Rollo 2",
     "brand": "SLN",
     "configurable": true,
     "ceramic": false,
-    "metal_pvd": false,
+    "metal_pvd": true,
     "metal_paint": false,
     "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2.5.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ROLLO_2.5.glb",
-    "variants": [205, 206, 207, 210]
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Rollo_2.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Rollo_2.glb",
+    "variants": [204, 205, 206, 207]
   },
   {
     "id": 205,
@@ -2592,6 +2616,19 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2_4STR.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ROLLO_2_4STR.glb",
     "variants": [204, 205, 207, 210]
+  },
+  {
+    "id": 204,
+    "name": "Rollo 2.5",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_ROLLO_2.5.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ROLLO_2.5.glb",
+    "variants": [205, 206, 207, 210]
   },
   {
     "id": 207,
@@ -2631,19 +2668,6 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_RONDA_2.5.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_RONDA_2.5.glb",
     "variants": [208]
-  },
-  {
-    "id": 210,
-    "name": "Rollo 2",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Rollo_2.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Rollo_2.glb",
-    "variants": [204, 205, 206, 207]
   },
   {
     "id": 211,
@@ -2709,6 +2733,45 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Surefooted.glb"
   },
   {
+    "id": 265,
+    "name": "SUREFOOTED A",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_A.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_A.glb",
+    "variants": [266, 267]
+  },
+  {
+    "id": 266,
+    "name": "SUREFOOTED B",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_B.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_B.glb",
+    "variants": [265, 267]
+  },
+  {
+    "id": 267,
+    "name": "SUREFOOTED C",
+    "brand": "SLN",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_C.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_C.glb",
+    "variants": [265, 266]
+  },
+  {
     "id": 216,
     "name": "Trilogy Big",
     "brand": "SLN",
@@ -2748,18 +2811,6 @@
     "variants": [216, 217]
   },
   {
-    "id": 219,
-    "name": "Tuxedo Odd Chair",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TUXEDO_ODD_CHAIR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TUXEDO_ODD_CHAIR.glb"
-  },
-  {
     "id": 220,
     "name": "Tuxedo Bed",
     "brand": "SLN",
@@ -2770,6 +2821,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TUXEDO_bed.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TUXEDO_bed.glb"
+  },
+  {
+    "id": 219,
+    "name": "Tuxedo Odd Chair",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_TUXEDO_ODD_CHAIR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_TUXEDO_ODD_CHAIR.glb"
   },
   {
     "id": 221,
@@ -2794,6 +2857,18 @@
     "veneer": false,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Valantino.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Valantino.glb"
+  },
+  {
+    "id": 258,
+    "name": "Valantino CT",
+    "brand": "SLN",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Valantino_CT.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Valantino_CT.glb"
   },
   {
     "id": 223,
@@ -2871,30 +2946,6 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_ZIPPO.glb"
   },
   {
-    "id": 229,
-    "name": "Crazy Daisy",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Crazy_daisy.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Crazy_daisy.glb"
-  },
-  {
-    "id": 230,
-    "name": "Enchanted",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_enchanted.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_enchanted.glb"
-  },
-  {
     "id": 231,
     "name": "Ben",
     "brand": "St_Hilker",
@@ -2920,6 +2971,32 @@
     "variants": [233, 268, 269, 270, 271]
   },
   {
+    "id": 268,
+    "name": "Berlin (3 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_3STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_3STR.glb",
+    "variants": [232, 233, 269, 270, 271]
+  },
+  {
+    "id": 269,
+    "name": "Berlin (4 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_4STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_4STR.glb",
+    "variants": [232, 233, 268, 270, 271]
+  },
+  {
     "id": 233,
     "name": "Berlin CT",
     "brand": "St_Hilker",
@@ -2931,6 +3008,32 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Berlin_CT.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Berlin_CT.glb",
     "variants": [232, 268, 269, 270, 271]
+  },
+  {
+    "id": 271,
+    "name": "Berlin LH-RH",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_LH_RH.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_LH_RH.glb",
+    "variants": [232, 233, 268, 269, 270]
+  },
+  {
+    "id": 270,
+    "name": "Berlin LH-RH (3 Seater) With Terminal",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_LH-RH_3STR_With_Terminal.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_LH-RH_3STR_With_Terminal.glb",
+    "variants": [232, 233, 268, 269, 271]
   },
   {
     "id": 234,
@@ -2981,32 +3084,6 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_CT_2.glb"
   },
   {
-    "id": 238,
-    "name": "Dortmund Roma",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND_ROMA.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND_ROMA.glb",
-    "variants": [239, 272, 273, 274, 275]
-  },
-  {
-    "id": 239,
-    "name": "Dortmund L Shape",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND__L_Shape.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND__L_Shape.glb",
-    "variants": [238, 272, 273, 274, 275]
-  },
-  {
     "id": 240,
     "name": "Detmold",
     "brand": "St_Hilker",
@@ -3033,6 +3110,84 @@
     "variants": [240]
   },
   {
+    "id": 272,
+    "name": "Dortmund (1.5 Seater) Without Arm",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_1.5_STR_WITHOUT_ARM.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_1.5_STR_WITHOUT_ARM.glb",
+    "variants": [238, 239, 273, 274, 275]
+  },
+  {
+    "id": 239,
+    "name": "Dortmund L Shape",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND__L_Shape.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND__L_Shape.glb",
+    "variants": [238, 272, 273, 274, 275]
+  },
+  {
+    "id": 273,
+    "name": "Dortmund Puffee",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_Puffee.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_Puffee.glb",
+    "variants": [238, 239, 272, 274, 275]
+  },
+  {
+    "id": 274,
+    "name": "Dortmund RH-LH (1.5 Seater)",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_RH-LH_1.5_STR.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_RH-LH_1.5_STR.glb",
+    "variants": [238, 239, 272, 273, 275]
+  },
+  {
+    "id": 275,
+    "name": "Dortmund RH-LH Terminal With Side Table",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_RH-LH_Terminal_with_side_Table.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_RH-LH_Terminal_with_side_Table.glb",
+    "variants": [238, 239, 272, 273, 274]
+  },
+  {
+    "id": 238,
+    "name": "Dortmund Roma",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_DORTMUND_ROMA.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_DORTMUND_ROMA.glb",
+    "variants": [239, 272, 273, 274, 275]
+  },
+  {
     "id": 242,
     "name": "Dream",
     "brand": "St_Hilker",
@@ -3055,6 +3210,32 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dt_1.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dt_1.glb"
+  },
+  {
+    "id": 262,
+    "name": "Dusseldorf 1 Seater",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_1_Seater.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_1_Seater.glb",
+    "variants": [244, 263]
+  },
+  {
+    "id": 263,
+    "name": "Dusseldorf 2 Seater",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_2_Seater.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_2_Seater.glb",
+    "variants": [244, 262]
   },
   {
     "id": 244,
@@ -3080,6 +3261,18 @@
     "veneer": true,
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_ct.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_ct.glb"
+  },
+  {
+    "id": 259,
+    "name": "Feelgood",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Feelgood.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Feelgood.glb"
   },
   {
     "id": 246,
@@ -3178,6 +3371,18 @@
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Munich.glb"
   },
   {
+    "id": 264,
+    "name": "Munich CT",
+    "brand": "St_Hilker",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": true,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Munich_CT.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Munich_CT.glb"
+  },
+  {
     "id": 254,
     "name": "Paradise",
     "brand": "St_Hilker",
@@ -3227,237 +3432,6 @@
     "variants": [260, 261, 276, 277, 278]
   },
   {
-    "id": 258,
-    "name": "Valantino CT",
-    "brand": "SLN",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_Valantino_CT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_Valantino_CT.glb"
-  },
-  {
-    "id": 259,
-    "name": "Feelgood",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Feelgood.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Feelgood.glb"
-  },
-  {
-    "id": 260,
-    "name": "Stuttgard CT",
-    "brand": "St_Hilker",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_CT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_CT.glb",
-    "variants": [261, 257, 276, 277, 278]
-  },
-  {
-    "id": 261,
-    "name": "Stuttgard ST",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": true,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_ST.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_ST.glb",
-    "variants": [260, 257, 276, 277, 278]
-  },
-  {
-    "id": 262,
-    "name": "Dusseldorf 1 Seater",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_1_Seater.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_1_Seater.glb",
-    "variants": [244, 263]
-  },
-  {
-    "id": 263,
-    "name": "Dusseldorf 2 Seater",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": false,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Dusseldorf_2_Seater.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Dusseldorf_2_Seater.glb",
-    "variants": [244, 262]
-  },
-  {
-    "id": 264,
-    "name": "Munich CT",
-    "brand": "St_Hilker",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Munich_CT.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Munich_CT.glb"
-  },
-  {
-    "id": 265,
-    "name": "SUREFOOTED A",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_A.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_A.glb",
-    "variants": [266, 267]
-  },
-  {
-    "id": 266,
-    "name": "SUREFOOTED B",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_B.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_B.glb",
-    "variants": [265, 267]
-  },
-  {
-    "id": 267,
-    "name": "SUREFOOTED C",
-    "brand": "SLN",
-    "configurable": false,
-    "ceramic": true,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": false,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/SLN_SUREFOOTED_C.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/SLN_SUREFOOTED_C.glb",
-    "variants": [265, 266]
-  },
-  {
-    "id": 268,
-    "name": "Berlin (3 Seater)",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_3STR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_3STR.glb",
-    "variants": [232, 233, 269, 270, 271]
-  },
-  {
-    "id": 269,
-    "name": "Berlin (4 Seater)",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_4STR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_4STR.glb",
-    "variants": [232, 233, 268, 270, 271]
-  },
-  {
-    "id": 270,
-    "name": "Berlin LH-RH (3 Seater) With Terminal",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_LH-RH_3STR_With_Terminal.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_LH-RH_3STR_With_Terminal.glb",
-    "variants": [232, 233, 268, 269, 271]
-  },
-  {
-    "id": 271,
-    "name": "Berlin LH-RH",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_BERLIN_LH_RH.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_BERLIN_LH_RH.glb",
-    "variants": [232, 233, 268, 269, 270]
-  },
-  {
-    "id": 272,
-    "name": "Dortmund (1.5 Seater) Without Arm",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_1.5_STR_WITHOUT_ARM.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_1.5_STR_WITHOUT_ARM.glb",
-    "variants": [238, 239, 273, 274, 275]
-  },
-  {
-    "id": 273,
-    "name": "Dortmund Puffee",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_Puffee.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_Puffee.glb",
-    "variants": [238, 239, 272, 274, 275]
-  },
-  {
-    "id": 274,
-    "name": "Dortmund RH-LH (1.5 Seater)",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_RH-LH_1.5_STR.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_RH-LH_1.5_STR.glb",
-    "variants": [238, 239, 272, 273, 275]
-  },
-  {
-    "id": 275,
-    "name": "Dortmund RH-LH Terminal With Side Table",
-    "brand": "St_Hilker",
-    "configurable": true,
-    "ceramic": false,
-    "metal_pvd": false,
-    "metal_paint": true,
-    "veneer": true,
-    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/ST_HILKER_DORTMUND_RH-LH_Terminal_with_side_Table.webp",
-    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/ST_HILKER_DORTMUND_RH-LH_Terminal_with_side_Table.glb",
-    "variants": [238, 239, 272, 273, 274]
-  },
-  {
     "id": 276,
     "name": "Stuttgard (2 Seater)",
     "brand": "St_Hilker",
@@ -3495,5 +3469,31 @@
     "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_3STR_LH-RH.webp",
     "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_3STR_LH-RH.glb",
     "variants": [257, 260, 261, 276, 277]
+  },
+  {
+    "id": 260,
+    "name": "Stuttgard CT",
+    "brand": "St_Hilker",
+    "configurable": false,
+    "ceramic": true,
+    "metal_pvd": false,
+    "metal_paint": true,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_CT.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_CT.glb",
+    "variants": [261, 257, 276, 277, 278]
+  },
+  {
+    "id": 261,
+    "name": "Stuttgard ST",
+    "brand": "St_Hilker",
+    "configurable": true,
+    "ceramic": false,
+    "metal_pvd": true,
+    "metal_paint": false,
+    "veneer": false,
+    "thumbnail_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/thumbnails/St_Hilker_Stuttgard_ST.webp",
+    "model_url": "https://raw.githubusercontent.com/yodha-a/model-tests/main/models/St_Hilker_Stuttgard_ST.glb",
+    "variants": [260, 257, 276, 277, 278]
   }
 ]
